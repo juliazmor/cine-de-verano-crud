@@ -1,0 +1,68 @@
+{
+    "movies": [
+        {
+            "id": "1",
+            "title": "The Alchemist's Star",
+            "director": "Chloé Zhao",
+            "description": "Un joven astrónomo del siglo XVII descubre un mapa estelar oculto que lo lleva a una tierra donde las constelaciones cobran vida. Para regresar a casa, debe resolver acertijos basados en física y astronomía.",
+            "scienceField": "astronomy",
+            "scienceFieldEs": "Astronomía"
+        },
+        {
+            "id": "2",
+            "title": "Chronos: El Guardián del Tiempo",
+            "director": "Denis Villeneuve",
+            "description": "Una niña con una mente brillante para la física cuántica encuentra un reloj antiguo que la transporta a épocas pasadas. Su conocimiento es la clave para reparar la línea temporal.",
+            "scienceField": "quantum physics",
+            "scienceFieldEs": "Física Cuántica"
+        },
+        {
+            "id": "3",
+            "title": "El Reino de los Números",
+            "director": "Taika Waititi",
+            "description": "Un estudiante de matemáticas cae accidentalmente en un universo donde los números tienen voluntad propia. Para salvar ese mundo y volver al suyo, deberá resolver un enigma lógico milenario.",
+            "scienceField": "mathematics",
+            "scienceFieldEs": "Matemáticas"
+        },
+        {
+            "id": "4",
+            "title": "El Bosque de Mendel",
+            "director": "Guillermo del Toro",
+            "description": "En un bosque encantado, las plantas obedecen leyes genéticas arcanas. Una joven bióloga debe descifrar los secretos del ADN para curar una plaga mágica que amenaza con destruir el ecosistema.",
+            "scienceField": "genetics",
+            "scienceFieldEs": "Genética"
+        },
+        {
+            "id": "5",
+            "title": "Las Mareas del Éter",
+            "director": "Jennifer Kent",
+            "description": "En un mundo donde los océanos están vivos y controlan el clima, una oceanógrafa descubre una antigua civilización que usa la ciencia del agua para controlar el equilibrio del planeta.",
+            "scienceField": "oceanography",
+            "scienceFieldEs": "Oceanografía"
+        },
+        {
+            "id": "6",
+            "title": "El Código de Tesla",
+            "director": "Christopher Nolan",
+            "description": "Un joven inventor encuentra el diario secreto de Nikola Tesla y viaja a una dimensión donde la electricidad da vida a criaturas fantásticas. Solo comprendiendo los principios de la ingeniería eléctrica podrá controlar su destino.",
+            "scienceField": "electrical engineering",
+            "scienceFieldEs": "Ingeniería Eléctrica"
+        },
+        {
+            "id": "7",
+            "title": "La Torre de los Elementos",
+            "director": "Patty Jenkins",
+            "description": "En una tierra dividida por los cuatro elementos, una química adolescente intenta unir los reinos resolviendo la tabla periódica viviente.",
+            "scienceField": "chemistry",
+            "scienceFieldEs": "Química"
+        },
+        {
+            "id": "8",
+            "title": "Silicio y Sombras",
+            "director": "Alex Garland",
+            "description": "Una joven programadora entra a un mundo virtual lleno de magia y algoritmos, donde la inteligencia artificial tiene alma. Deberá escribir el código perfecto para evitar una catástrofe digital.",
+            "scienceField": "computer science",
+            "scienceFieldEs": "Ciencias de la Computación"
+        }
+    ]
+}
